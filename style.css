@@ -1,0 +1,48 @@
+
+.h1-text h1
+{
+  text-align: center;
+  color: red;
+  margin: 2%;
+  /* vertical-align: middle; */
+}
+.h2-text h2
+{
+  text-align: center;
+  color: grey;
+  margin: 2%;
+  /* vertical-align: middle; */
+}
+.container
+{
+  display: flex;
+  justify-content: center;
+  margin: 5%;
+}
+.img-1{
+margin-right: 5%;
+text-align: center;
+color: #2C3E50 ;
+font-size: 40px;
+text-shadow: 1px 1px 2px #000000;
+}
+
+.img-2{
+margin-left: 5%;
+text-align: center;
+color: #2C3E50 ;
+font-size: 40px;
+text-shadow: 1px 1px 2px #000000;
+
+}
+.play1
+{
+  display: flex;
+  justify-content: center;
+}
+.play1 input{
+  height: 5%;
+  width: 10%;
+  padding: 1%;
+  color: white;
+}
